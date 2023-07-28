@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\kalkan hotel\bin\Debug\kalkan hotel.exe.config
+C:\Users\User\source\repos\kalkan hotel\bin\Debug\kalkan hotel.exe
+C:\Users\User\source\repos\kalkan hotel\bin\Debug\kalkan hotel.pdb
+C:\Users\User\source\repos\kalkan hotel\obj\Debug\kalkan hotel.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\kalkan hotel\obj\Debug\kalkan hotel.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\kalkan hotel\obj\Debug\kalkan_hotel.FrmYeniMusteri.resources
+C:\Users\User\source\repos\kalkan hotel\obj\Debug\kalkan_hotel.Properties.Resources.resources
+C:\Users\User\source\repos\kalkan hotel\obj\Debug\kalkan hotel.csproj.GenerateResource.cache
+C:\Users\User\source\repos\kalkan hotel\obj\Debug\kalkan hotel.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\kalkan hotel\obj\Debug\kalkan hotel.exe
+C:\Users\User\source\repos\kalkan hotel\obj\Debug\kalkan hotel.pdb
+C:\Users\User\source\repos\kalkan hotel\obj\Debug\kalkan_hotel.FrmAdminGiris.resources
+C:\Users\User\source\repos\kalkan hotel\obj\Debug\kalkan_hotel.FrmAnaForm.resources
+C:\Users\User\source\repos\kalkan hotel\obj\Debug\kalkan_hotel.FrmOdalar.resources
+C:\Users\User\source\repos\kalkan hotel\obj\Debug\kalkan_hotel.FrmMusteriler.resources
+C:\Users\User\source\repos\kalkan hotel\obj\Debug\kalkan_hotel.FrmGelirGider.resources
+C:\Users\User\source\repos\kalkan hotel\obj\Debug\kalkan_hotel.FrmStoklar.resources
